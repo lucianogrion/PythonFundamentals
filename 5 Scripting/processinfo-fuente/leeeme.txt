@@ -1,0 +1,4 @@
+Para ejecutar el processinfo.py, primero instalar lo siguiente vía pip:
+
+    python -m pip install terminaltables psutil
+

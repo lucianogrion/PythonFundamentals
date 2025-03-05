@@ -1,0 +1,10 @@
+#def multiplos(maximo)
+def fib(cant):
+	l=[]
+	for numero in range(1,cant+1,1)
+		l[numero] =numero
+	return l
+
+
+
+fib(10)

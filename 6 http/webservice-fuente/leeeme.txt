@@ -1,0 +1,4 @@
+Para ejecutar el webservice.py, primero instalar Flask vía
+
+    python -m pip install flask
+
